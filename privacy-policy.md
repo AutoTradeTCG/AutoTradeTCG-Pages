@@ -12,4 +12,4 @@ This data is never sold or shared with third parties. We use it only to enable f
 
 We use basic cookies and analytics tools (e.g., Google Analytics) to improve the site.
 
-If you have questions or want to delete your account, email us at autotradetcg@gmail.com.
+If you have questions or want to delete your account, email us at [support@autotradetcg.com](mailto:autotradetcg@gmail.com).
